@@ -7,4 +7,4 @@ Combinadas con cudradas generan trastornos, distorciones cognigtivas (no ven la 
 Rechanzan los cambios o nuevos modelos, se aferran a los modelos conocidos.
 Puede convertise en tipo redonda si cambia su puerta de entrada (vease mas adelante)
 Todo resultado tiene una causa intencional 
-Lo comprende lo abstracto necesita información que puedan medir
+No comprende lo abstracto necesita información que puedan medir
