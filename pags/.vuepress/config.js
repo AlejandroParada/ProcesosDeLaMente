@@ -13,7 +13,8 @@ module.exports = {
           'Puerta de Hoja',
           'Puerta de ascensor',
           'Puerta de vaivén', 
-          'Cambio de Informacion' 
+          'Cambio de Informacion', 
+          'Creacion de cajas'
         ]
     }
   }
