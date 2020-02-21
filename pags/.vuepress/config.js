@@ -19,7 +19,8 @@ module.exports = {
           'El equilibrio',
           'Las emociones',
 		  'Entendiendo mejor',
-		  'Mentes Rigidas'		  
+		  'Mentes Rigidas',
+		  'Mas informacion'
         ]
     }
   }
