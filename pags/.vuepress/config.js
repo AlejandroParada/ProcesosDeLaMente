@@ -17,7 +17,7 @@ module.exports = {
           'Creacion de caja', 
           'El peligro', 
           'El equilibrio',
-		  'Entendiendo mejor'
+		  'Entendiendo mejor',
           'Las emociones',
 		  'Mentes Rigidas'
 		  
