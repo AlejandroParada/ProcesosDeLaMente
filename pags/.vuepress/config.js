@@ -16,7 +16,8 @@ module.exports = {
           'Cambio de Informacion', 
           'Creacion de cajas', 
           'El peligro', 
-          'El equilibrio'
+          'El equilibrio',
+          'Las emociones'  
         ]
     }
   }
