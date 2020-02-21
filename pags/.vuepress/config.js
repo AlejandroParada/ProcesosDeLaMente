@@ -15,7 +15,8 @@ module.exports = {
           'Puerta de vaivén', 
           'Cambio de Informacion', 
           'Creacion de cajas', 
-          'El peligro'
+          'El peligro', 
+          'El equilibrio'
         ]
     }
   }
