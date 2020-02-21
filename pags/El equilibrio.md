@@ -11,3 +11,11 @@
 . Lo que comemos
 . El tipo de vida que llevamos
 
+## La tendencia
+
+. Si nos descuidadmos nuestra mente crea caja cuadradas
+
+## No podemos vivir sin los dos tipos de cajas 
+
+. Las cajas cuadradas se encargan de retener el aprendizaje
+. Las cajas redondas se encargan de adquirir conocimiento
