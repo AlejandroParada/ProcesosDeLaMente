@@ -6,9 +6,9 @@ module.exports = {
     description: 'Procesos de la mente',
     themeConfig: {
         sidebar: [
-          'LaCajaNegra',
-          'biometrias',
-          'ataqueshaker',
+          'La Caja Negra',
+          'Tipo Cuadrada',
+          'Tipo Redonda',
           'DatosUruguay'
         ]
     }
