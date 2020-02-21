@@ -18,9 +18,9 @@ module.exports = {
           'El peligro', 
           'El equilibrio',
           'Las emociones',
-		  'Entendiendo mejor',
-		  'Mentes Rigidas',
-		  'Mas informacion'
+	  'Entendiendo mejor',
+	  'Mentes Rigidas',
+	  'Mas informacion'
         ]
     }
   }
