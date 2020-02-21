@@ -13,11 +13,14 @@ module.exports = {
           'Puerta de Hoja',
           'Puerta de ascensor',
           'Puerta de vaivén', 
-          'Cambio de Informacion', 
-          'Creacion de cajas', 
+          'Cambio de informacion', 
+          'Creacion de caja', 
           'El peligro', 
           'El equilibrio',
-          'Las emociones'  
+		  'Entendiendo mejor'
+          'Las emociones',
+		  'Mentes Rigidas'
+		  
         ]
     }
   }
