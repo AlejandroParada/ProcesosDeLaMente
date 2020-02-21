@@ -12,7 +12,8 @@ module.exports = {
           'Tipos de entrada',
           'Puerta de Hoja',
           'Puerta de ascensor',
-          'Puerta de vaivén'  
+          'Puerta de vaivén', 
+          'Cambio de Informacion' 
         ]
     }
   }
