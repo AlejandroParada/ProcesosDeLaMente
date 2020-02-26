@@ -1,0 +1,7 @@
+## Las personas rígidas son más propensas a la depresión
+
+**Las personas con una mente rígida seleccionan solo aquello que está de acuerdo con sus creencias e ignora la información que les contradice**. No tienen en cuenta los matices, por lo que insisten en lo que piensan, sienten o hacen hasta casos extremos, aunque la evidencia demuestre lo contrario. Llegan a mentir, insultar y menospreciar para salirse con la suya y no sucumbir al desconcierto de no llevar la razón.
+
+**Las  [mentes](https://lamenteesmaravillosa.com/mente-razona-corazon-sabe/)  rígidas y absolutistas viven los cambios como una debilidad**  y prefieren evitar los hechos si éstos están en desacuerdo con ellos, por lo que corren el riesgo de sufrir trastornos como la depresión. Estas personas sacan conclusiones sin contar con la suficiente información y consideran que están obligadas a actuar, en un sentido determinado, sin profundizar ni escuchar a sus opositores.
+
+**Son personas que piensan que los que no están con ellos, están contra ellos.** Esta creencia se retroalimenta del miedo a descubrir que están equivocadas y darse cuenta de que parte de su vida está basada en una falsa creencia. Tienen un miedo extremo a perder la señal de seguridad como líder, sabio o el más lúcido, a no ser capaz o a no estar preparado para afrontar las exigencias que conlleva el cambio.

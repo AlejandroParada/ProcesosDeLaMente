@@ -6,21 +6,21 @@ module.exports = {
     description: 'Los Procesos de la mente explicados de una manera sencilla',
     themeConfig: {
         sidebar: [
-          'La Caja Negra',
-          'Tipo Cuadrada',
-          'Tipo Redonda',
-          'Tipos de entrada',
-          'Puerta de Hoja',
-          'Puerta de ascensor',
-          'Puerta de vaivén', 
-          'Cambio de informacion', 
-          'Creacion de caja', 
-          'El peligro', 
-          'El equilibrio',
-          'Las emociones',
-	  'Entendiendo mejor',
-	  'Mentes Rigidas',
-	  'Mas informacion'
+          'TipoCuadrada',
+          'LaCajaNegra',
+          'TipoRedonda',
+          'Tiposdeentrada',
+          'PuertadeHoja',
+          'Puertadeascensor',
+          'Puertadevaivén', 
+          'Cambiodeinformacion', 
+          'Creaciondecaja', 
+          'Elpeligro', 
+          'Elequilibrio',
+          'Lasemociones',
+	  'Entendiendomejor',
+	  'MentesRigidas',
+	  'Masinformacion'
         ]
     }
   }
