@@ -1,6 +1,6 @@
 module.exports = {
     dest: 'dist',
-    base: '/ProcesosDelaMente/',
+    base: '/ProcesosDeLaMente/',
     title: 'Procesos de la Mente',
     description: 'Los Procesos de la mente explicados de una manera sencilla',
     themeConfig: {
