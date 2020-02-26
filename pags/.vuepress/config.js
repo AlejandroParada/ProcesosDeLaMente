@@ -1,4 +1,3 @@
-//esto va en .vuepress/config.js
 module.exports = {
     dest: 'dist',
     base: '/ProcesosDelaMente/',
